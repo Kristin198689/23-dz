@@ -1,0 +1,17 @@
+
+.profile-page {
+    text-align: center;
+    padding: 20px;
+}
+
+.logout-btn {
+    padding: 10px 20px;
+    background-color: #ff4d4f;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.logout-btn:hover {
+    background-color: #ff7875;
+}
